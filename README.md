@@ -25,3 +25,25 @@ Collect all existing development board based on i.MXRT | 收集所有基于i.MXR
 
 ![](http://henjay724.com/image/github/Teensy4.0.PNG)
 
+[Teensy 4.1](https://circuitpython.org/board/teensy41/)
+
+![teensy 4.1](https://circuitpython.org/assets/images/boards/large/teensy41.jpg)
+
+## arturo182
+
+[Feather MIMXRT1011](https://circuitpython.org/board/feather_mimxrt1011/)
+
+![feather rt1011](https://circuitpython.org/assets/images/boards/large/feather_mimxrt1011.jpg)
+
+[Feather MIXMRT1062](https://circuitpython.org/board/feather_mimxrt1062/)
+
+![feather rt1062](https://circuitpython.org/assets/images/boards/large/feather_mimxrt1062.jpg)
+
+## Adafruit
+
+[Feather M7 1011](https://circuitpython.org/board/feather_m7_1011/)
+
+![feather M7 1011](https://circuitpython.org/assets/images/boards/large/feather_m7_1011.jpg)
+
+
+
